@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkaxonaio=self.webpackChunkaxonaio||[]).push([[97],{83097:function(n,u,e){e.r(u),e.d(u,{default:function(){return a}});e(72791);var r=e(30326),t=e(80184),i=function(){return(0,t.jsx)("div",{children:(0,t.jsx)(r.Z,{})})},a=function(){return(0,t.jsx)(i,{})}}}]);
+//# sourceMappingURL=97.01baa730.chunk.js.map

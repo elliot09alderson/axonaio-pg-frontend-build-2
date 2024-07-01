@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkaxonaio=self.webpackChunkaxonaio||[]).push([[32],{96032:function(e,s,t){t.r(s);t(72791);var a=t(36036),n=t(80184);s.default=function(){return(0,n.jsxs)("div",{className:"flex items-center justify-center opacity-80 h-[100vh] gap-2 cursor-not-allowed",children:[(0,n.jsx)("h1",{className:"text-2xl select-none ",children:"Un-Authorised Access Contact Your System Administrator"}),(0,n.jsx)(a.fB,{size:28,className:"mb-2"})]})}}}]);
+//# sourceMappingURL=32.222567f2.chunk.js.map
